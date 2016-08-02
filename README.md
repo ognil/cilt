@@ -1,2 +1,2 @@
 # cilt
-[I'm learneng this on cilt](http://www.cilt.ca)
+[I'm learning this on cilt](http://www.cilt.ca)
